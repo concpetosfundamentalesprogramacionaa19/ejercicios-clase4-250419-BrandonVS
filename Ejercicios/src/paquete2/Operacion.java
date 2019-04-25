@@ -9,8 +9,10 @@ package paquete2;
  * @author Brandon
  */
 public class Operacion {
-
+    
+    // Se crean los mensajes
     public static String mensaje = ("Usted esta aprovado con:");
-
+    
+    public static String mensaje2 = ("Usted esta reprobado con:");
     
 }

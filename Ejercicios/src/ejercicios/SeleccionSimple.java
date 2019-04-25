@@ -12,16 +12,16 @@ import paquete2.*;
 public class SeleccionSimple {
     
     public static void main(String[] args) {
-        
+        // Se declara e importan las variables
         int calificacion = 85;
         String miMensaje = Operacion.mensaje;
-        
+        // Se calcula el resulltado
         if (calificacion >= 85){
             System.out.printf("%s %d\n", miMensaje, calificacion);
         }
-            
+        // Se declara la segunda variable
         int calificacion_2 = 45;
-            
+        // Se calcula el resultado
         if (calificacion_2 >= 85){
             System.out.printf("%s %d\n", miMensaje, calificacion_2);
         }
